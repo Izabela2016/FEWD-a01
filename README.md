@@ -23,11 +23,11 @@ After two good years, we moved once again, this time to San Diego hoping that th
 
 ---
 
-During my free time:
+During my free time I like to:
 
 1. reading books
 
-2. running, biking
+2. running and biking
 
 3. drawing
 

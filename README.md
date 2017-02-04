@@ -4,8 +4,7 @@
 FEWD assignment 1
 
 ---
-##Introduction
-
+###Introduction
 
 My name is **Izabela Wysocka**. I graduated from **University of Technology** in Warsaw with *Master of Science and Engineering*. With encouragement from family and friends, I started the School of Economics in Warsaw and graduated with license of Property Management. First 4 years of my career I spent in JVC creating and developing car audio business within specialist sales network. Next 6 years I was sales representative in Polish Oil and Gas Company SA, where I was responsible for negotiate gas sale agreements with the largest customers. 
 
@@ -35,9 +34,14 @@ During my free time I like to:
 
 ---
 
+Here is some pictures.
 
-Here is a pictures form my last trip to NYC :
-![me going up](https://www.instagram.com/p/BP3ioiuhmoY/?taken-by=izabelawysocka_)
+1. Form my last trip to NYC :
+![me in NYC](https://www.instagram.com/p/BP3ioiuhmoY/?taken-by=izabelawysocka_)
+
+2. NYC
+![NY] (https://www.instagram.com/p/BIoPtKlDEE_/?taken-by=izabelawysocka_)
+
 
 
 Here you can see pictures from my trips: [instagram account](https://www.instagram.com/izabelawysocka_/):
